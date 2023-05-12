@@ -1,0 +1,22 @@
+baseURL: 'https://yank-nvim.com/'
+title: "yank.nvim"
+theme: PaperMod
+
+params:
+    profileMode:
+        enabled: true
+        title: "yank.nvim" # optional default will be site title
+        imageUrl: "/image/icon.jpg" # optional
+        imageWidth: 120 # custom size
+        imageHeight: 120 # custom size
+        buttons:
+          - name: Profile
+            url: "/profile"
+          - name: Links
+            url: "/links"
+
+    socialIcons: # optional
+        - name: "github"
+          url: "https://github.com/yanknvim"
+        - name: "twitter"
+          url: "https://twitter.com/yanknvim"

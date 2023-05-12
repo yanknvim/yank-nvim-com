@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>yank.nvim</title>
+    <link>https://yank-nvim.com/</link>
+    <description>Recent content on yank.nvim</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://yank-nvim.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Links</title>
+      <link>https://yank-nvim.com/links/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://yank-nvim.com/links/</guid>
+      <description>Links 相互リンク 勝手リンク ないよ
+バナー つかってね</description>
+    </item>
+    
+    <item>
+      <title>Profile</title>
+      <link>https://yank-nvim.com/profile/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://yank-nvim.com/profile/</guid>
+      <description>About Me ハードウェアとLinuxとNeovimが好きな生き物 自称コンピューター魔法少年 PythonやらGoで遊んでる ゲームは雑食(アクションやらパズルやらFPSやら…) VRChatやってます、見かけたら声をかけてあげてね For VRChatters 19:30~21:00に顔を出すかもです ガチで重いワールドに行くとうちのGTX1660Superちゃんが爆発しちゃうので許してね 気楽に話しかけてくれると嬉しいです 撫でて Contacts Twitter: yanknvim Github: yanknvim VRChat: yanknvim Discord: yank.nvim#3947 Keybase: yanknvim Works もぺもぺジェネレータ
+「もぺもぺ」のようなランダムなひらがな二文字の繰り返しの文字列を生成 Hotate
+Rust製のシェル </description>
+    </item>
+    
+  </channel>
+</rss>

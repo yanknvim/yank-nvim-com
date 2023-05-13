@@ -4,14 +4,14 @@ title: "Profile"
 ---
 
 ## About Me
-- ハードウェアとLinuxとNeovimが好きな生き物
+- 低レイヤーとLinuxとNeovimが好き
 - 自称コンピューター魔法少年
-- PythonやらGoで遊んでる
+- Python, Go, Rust etc
 - ゲームは雑食(アクションやらパズルやらFPSやら…)
 - VRChatやってます、見かけたら声をかけてあげてね
 
 ## For VRChatters
-- 19:30~21:00に顔を出すかもです
+- 19:30~21:15に顔を出すかも
 - ガチで重いワールドに行くとうちのGTX1660Superちゃんが爆発しちゃうので許してね
 - 気楽に話しかけてくれると嬉しいです
 - 撫でて
@@ -30,3 +30,7 @@ title: "Profile"
 
 [Hotate](https://github.com/yanknvim/hotate)
 - Rust製のシェル
+
+
+[brainfuck-rs](https://github.com/yanknvim/brainfuck-rs)
+- Rustで書いたBrainfuck実装

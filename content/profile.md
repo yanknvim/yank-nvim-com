@@ -20,7 +20,7 @@ title: "Profile"
 - Twitter: [yanknvim](https://twitter.com/yanknvim)
 - Github: [yanknvim](https://github.com/yanknvim)
 - VRChat: [yanknvim](https://vrchat.com/home/user/usr_81dd1e49-4418-4bd5-a315-9790e94c240d)
-- Discord: yank.nvim#3947
+- Discord: yanknvim
 - Keybase: [yanknvim](https://keybase.io/yanknvim)
 
 ## Works

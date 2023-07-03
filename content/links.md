@@ -21,3 +21,6 @@ title: "Links"
 
 
 つかってね
+
+### クソドメイン
+[ウネウネ](http://uneu.net)

@@ -21,6 +21,7 @@ title: "Profile"
 - VRChat: [yanknvim](https://vrchat.com/home/user/usr_81dd1e49-4418-4bd5-a315-9790e94c240d)
 - Discord: yanknvim
 - Keybase: [yanknvim](https://keybase.io/yanknvim)
+- ActivityPub: @yanknvim@pub.uneu.net
 
 ## Works
 [もぺもぺジェネレータ](https://yanknvim.github.io/mopemope_generator/)

@@ -4,7 +4,8 @@
     <title>yank.nvim</title>
     <link>https://yank-nvim.com/</link>
     <description>Recent content on yank.nvim</description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://yank-nvim.com/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="https://yank-nvim.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Links</title>
       <link>https://yank-nvim.com/links/</link>
@@ -12,7 +13,8 @@
       
       <guid>https://yank-nvim.com/links/</guid>
       <description>Links 相互リンク 勝手リンク ないよ
-バナー つかってね</description>
+バナー つかってね
+クソドメイン ウネウネ</description>
     </item>
     
     <item>
@@ -21,9 +23,19 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://yank-nvim.com/profile/</guid>
-      <description>About Me ハードウェアとLinuxとNeovimが好きな生き物 自称コンピューター魔法少年 PythonやらGoで遊んでる ゲームは雑食(アクションやらパズルやらFPSやら…) VRChatやってます、見かけたら声をかけてあげてね For VRChatters 19:30~21:00に顔を出すかもです ガチで重いワールドに行くとうちのGTX1660Superちゃんが爆発しちゃうので許してね 気楽に話しかけてくれると嬉しいです 撫でて Contacts Twitter: yanknvim Github: yanknvim VRChat: yanknvim Discord: yank.nvim#3947 Keybase: yanknvim Works もぺもぺジェネレータ
+      <description>About Me 低レイヤーとLinuxとNeovimが好き 自称コンピューター魔法少年 Python, Go, Rust etc ゲームは雑食(アクションやらパズルやらFPSやら…) VRChatやってます、見かけたら声をかけてあげてね For VRChatters 19:30~21:15に顔を出すかも 気楽に話しかけてくれると嬉しいです 撫でて Contacts Twitter: yanknvim Github: yanknvim VRChat: yanknvim Discord: yanknvim Keybase: yanknvim ActivityPub: @yanknvim@pub.uneu.net Works もぺもぺジェネレータ
 「もぺもぺ」のようなランダムなひらがな二文字の繰り返しの文字列を生成 Hotate
-Rust製のシェル </description>
+Rust製のシェル brainfuck-rs
+Rustで書いたBrainfuck実装 </description>
+    </item>
+    
+    <item>
+      <title>ウネウネ</title>
+      <link>https://yank-nvim.com/uneune/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://yank-nvim.com/uneune/</guid>
+      <description>ウネウネット uneu.net ウネウネした本体 pub.uneu.net ウネウネActivityPubおひとりさまインスタンス(GoToSocial) </description>
     </item>
     
   </channel>

@@ -11,14 +11,13 @@ title: "Links"
 
 [![sasakura_banner](/image/sasakura_banner.png)](https://sasakulab.com/)
 
-[![kusaremkn_banner](/image/kusaremkn_banner.webp)](https://kusaremkn.com/)
+[![kusaremkn_banner](/image/kusaremkn_banner.webp)](https://kusaremkn.com)
 
 ### 勝手リンク
 ないよ
 
 ### バナー
-![バナー](/image/banner.png)
-
+![banner](/image/banner.png)
 
 つかってね
 

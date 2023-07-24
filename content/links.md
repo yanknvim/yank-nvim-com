@@ -13,6 +13,8 @@ title: "Links"
 
 [![kusaremkn_banner](/image/kusaremkn_banner.webp)](https://kusaremkn.com)
 
+[![budobudou_banner](/image/budobudou_banner.png)](https://gbudou.com)
+
 ### 勝手リンク
 ないよ
 

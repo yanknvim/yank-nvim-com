@@ -4,14 +4,13 @@ title: "Profile"
 ---
 
 ## About Me
-- 低レイヤーとLinuxとNeovimが好き
-- 自称コンピューター魔法少年
-- Python, Go, Rust etc
+- Life with Neovim and Terminal 
+- Python, Go, Rust, Scheme, Neovim etc
 - ゲームは雑食(アクションやらパズルやらFPSやら…)
 - VRChatやってます、見かけたら声をかけてあげてね
 
 ## For VRChatters
-- 19:30~21:15に顔を出すかも
+- 2023/02/10~, Trusted
 - 気楽に話しかけてくれると嬉しいです
 - 撫でて
 

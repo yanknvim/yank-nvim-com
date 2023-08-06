@@ -6,7 +6,7 @@ params:
     profileMode:
         enabled: true
         title: "yank.nvim" # optional default will be site title
-        imageUrl: "/image/icon.jpg" # optional
+        imageUrl: "/image/icon.png" # optional
         imageWidth: 120 # custom size
         imageHeight: 120 # custom size
         buttons:
